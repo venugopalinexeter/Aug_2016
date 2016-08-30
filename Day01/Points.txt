@@ -1,0 +1,35 @@
+What is JavaScript?
+	Functional Language
+	Object Oriented (!!!)
+	Client-side scripting(!!!)
+	Used in DHTML to manipulate
+	
+JavaScript Libraries
+	jQuery
+	InDesign
+	Angular JS
+	React JS
+	Backbone JS
+
+JavaScript Editor
+	Notepad++
+	Sublime Text
+	Eclipse(!!!)
+	NetBeans
+	Visual Studio
+	ExtendScript
+	TextMate()
+	 
+Problems with coding in JavaScript (libraries)
+	Too much of code(!!!)
+	Global scoping of variables 
+	Lack of Modularity
+	Debugging
+	Unit testing
+	
+	
+	
+	
+
+	 
+	

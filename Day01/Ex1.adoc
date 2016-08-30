@@ -1,0 +1,22 @@
+= Setting up NodeJS
+
+* Go to http://nodejs.org
+* Download NodeJS
+* Install it
+* Open Command Prompt
+* Type node -v
+* Check for the version
+
+
+* Create Day01 folder
+* Create HelloWorld.js
+* Type in the following code
+
+[source,javascript]
+----
+console.log("Hello Node JS");
+----
+
+* In Command Prompt Navigate to Day01 folder
+* Type node HelloWorld.js
+
