@@ -1,0 +1,29 @@
+= Practice JavaScript Functional concepts
+
+* Create Ex2-a.js in Day01 folder and implement the following
+
+[source,javascript]
+----
+function add(){
+  //Implement add function that prints the sum of all the numbers
+}
+add(1,32,43,5);
+add(45,56,456,23,432,4234234,234);
+add(5,6);
+----
+
+* Create Ex2-b.js in Day01 folder and implement the following
+* Create an array of numbers 1,2,3,4,5,6,30,56,84,23,100
+* Implement the following in a traditional and functional style
+
+1) Print all the numbers
+2) Print the sum of all numbers
+3) Print the first odd number
+4) Generate an list of squares of all numbers
+5) Generate a list of numbers divisible by 5. 
+----
+* Hint
+1) Refer to https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+2)Compare the styles and study the difference
+----
+
